@@ -1,1 +1,0 @@
-Adds a few inserter with a 3 tile reach. Developed from mod [Leighzer's Very Long Handed Inserter](https://mods.factorio.com/mod/leighzerverylonghandedinserter), adding 4 tiers (fast/filter/stack/stack-filter inserters.), and they must be unlocked by their respective technology.
